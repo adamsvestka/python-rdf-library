@@ -1,2 +1,2 @@
-# python-rdf-library
-A Python Interface to the Semantic Web
+# Python RDF Library
+Cílem projektu je vytvořit Python knihovnu pro práci s RDF daty (a případně souvisejícími formáty). Knihovna by měla umožnit načítání dat z různých zdrojů (soubor, URL) a různých formátů (RDF/XML, Turtle). Knihovna by měla umožnit práci s daty líně, aby bylo možné pracovat s daty, které se nevejdou do paměti. Součástí projektu by byl přehled o stavu existujících RDF knihovnách a případná implementace jejich chybějících funkcionalit. Data by mělo být možné mapovat na jiné modely, například pro ML nebo zobrazování grafů.
